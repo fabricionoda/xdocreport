@@ -6,7 +6,7 @@
 		<version>1.0.6</version>
 		<relativePath>..</relativePath>
 	</parent>
-	<artifactId>xdocreport</artifactId>
+	<artifactId>xdocreport-db1</artifactId>
 	<dependencies>
 		<!-- Document ODT -->
 		<dependency>

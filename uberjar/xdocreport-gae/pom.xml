@@ -61,7 +61,7 @@
 					<groupId>fr.opensagres.xdocreport</groupId>
 				</exclusion>
 				<exclusion>
-					<artifactId>org.apache.poi.xwpf.converter.xhtml</artifactId>
+					<artifactId>org.apache.poi.xwpf.converter.xhtml-db1</artifactId>
 					<groupId>fr.opensagres.xdocreport</groupId>
 				</exclusion>
 			</exclusions>

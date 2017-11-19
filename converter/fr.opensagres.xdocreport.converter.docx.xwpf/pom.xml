@@ -20,7 +20,7 @@
 		</dependency>
 		<dependency>
 			<groupId>fr.opensagres.xdocreport</groupId>
-			<artifactId>org.apache.poi.xwpf.converter.xhtml</artifactId>
+			<artifactId>org.apache.poi.xwpf.converter.xhtml-db1</artifactId>
 			<version>1.0.6</version>
 		</dependency>
 	</dependencies>

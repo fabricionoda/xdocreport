@@ -23,7 +23,7 @@
 							<artifactItems>
 								<artifactItem>
 									<groupId>fr.opensagres.xdocreport</groupId>
-									<artifactId>org.apache.poi.xwpf.converter.xhtml</artifactId>
+									<artifactId>org.apache.poi.xwpf.converter.xhtml-db1</artifactId>
 									<version>${project.version}</version>
 									<type>jar</type>
 									<classifier>sources</classifier>

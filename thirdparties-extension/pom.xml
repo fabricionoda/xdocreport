@@ -11,9 +11,9 @@
 	<packaging>pom</packaging>
 	<modules>
 		<!-- Apache POI PDF/XHTML converters -->
-		<module>org.apache.poi.xwpf.converter.core</module>
+		<module>org.apache.poi.xwpf.converter.core-db1</module>
 		<module>org.apache.poi.xwpf.converter.pdf</module>
-		<module>org.apache.poi.xwpf.converter.xhtml</module>
+		<module>org.apache.poi.xwpf.converter.xhtml-db1</module>
 		
 		<!-- ODFDOM converters -->								
 		<module>org.odftoolkit.odfdom.converter.core</module>
