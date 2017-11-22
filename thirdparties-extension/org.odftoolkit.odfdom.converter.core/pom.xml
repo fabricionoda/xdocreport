@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>fr.opensagres.xdocreport</groupId>
 		<artifactId>thirdparties-extension</artifactId>
-		<version>1.0.6</version>
+		<version>1.0.6.db1</version>
 	</parent>
 	<dependencies>
 		<dependency>

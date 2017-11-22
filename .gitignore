@@ -4,3 +4,9 @@
 .classpath
 /target
 /.repository/
+*.iml
+*.versionsBackup
+/.idea/
+*/.idea/
+/codealike.json
+*/codealike.json

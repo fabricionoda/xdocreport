@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.opensagres.xdocreport</groupId>
 	<artifactId>xdocreport-parent</artifactId>
-	<version>1.0.6</version>
+	<version>1.0.6.db1</version>
 	<packaging>pom</packaging>
 	<description>XDocReport means XML Document reporting. It's Java API to merge XML document created with MS Office (docx) or OpenOffice (odt), LibreOffice (odt) with a Java model to generate report and convert it if you need to another format (PDF, XHTML...).</description>
 	<parent>
@@ -201,6 +201,14 @@
 		</pluginManagement>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>nexus</id>
+			<name>RepositoryProxy</name>
+			<url>http://ci.jus.db1.com.br:8081/nexus/content/repositories/thirdparty/</url>
+		</repository>
+	</distributionManagement>
+
 	<developers>
 		<developer>
 			<id>angelozerr</id>
@@ -320,4 +328,5 @@
 			</build>
 		</profile>
 	</profiles>
+
 </project>
