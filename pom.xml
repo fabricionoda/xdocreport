@@ -205,7 +205,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>RepositoryProxy</name>
-			<url>http://ci.jus.db1.com.br:8081/nexus/content/repositories/thirdparty/</url>
+			<url>http://linhudson-1.intra.tjmg.gov.br:8081/nexus/content/repositories/thirdparty/</url>
 		</repository>
 	</distributionManagement>
 
